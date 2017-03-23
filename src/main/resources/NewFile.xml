@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<errorcode>0</errorcode>
+	<errormsg>null</errormsg>
+	<recogContent modelName="定额发票">
+		<_DanZhengMingCheng width="1870" top="220" height="90"
+			left="640">福建省地方税务局通用定额发票</_DanZhengMingCheng>
+		<_FaPiaoLianCi width="660" top="470" height="110" left="1340">发票联</_FaPiaoLianCi>
+		<_FaPiaoDaiMa width="1070" top="690" height="90" left="920">235011202409</_FaPiaoDaiMa>
+		<_FaPiaoHaoMa width="830" top="850" height="70" left="920">05030570</_FaPiaoHaoMa>
+		<_JinE width="800" top="1150" height="90" left="1250">贰拾元整</_JinE>
+		<_XiaoShouDanWeiShuiHao width="600" top="1280"
+			height="60" left="1330">350100854868209</_XiaoShouDanWeiShuiHao>
+		<_GaiZhangLeiXing width="370" top="1360" height="90"
+			left="1460">发票专用章</_GaiZhangLeiXing>
+		<_FaPiaoYinZhiPiHanJiYinZhiGongSi
+			width="110" top="1560" height="60" left="1090">福建兴达印务2012年1月印500.005001</_FaPiaoYinZhiPiHanJiYinZhiGongSi>
+	</recogContent>
+</root>
